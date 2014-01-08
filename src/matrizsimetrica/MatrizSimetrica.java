@@ -1,11 +1,11 @@
 
-
 package matrizsimetrica;
 import java.util.Random;
 import java.util.Scanner;
 public class MatrizSimetrica {
 
     public static void main(String[] args) {
+        //Holaaa
         Scanner sc=new Scanner(System.in);
         System.out.println("Dame filas");
         int f=sc.nextInt();
